@@ -17,7 +17,7 @@ body.force-reflow { border-right: 2px solid transparent; }
 #jim-mainWindow { background-color: #FFFFFF; height:100%; left:0px; overflow:hidden; width:auto; position:relative;}
 #jim-body { overflow: auto; width: 100%; height:auto; bottom:0; position:absolute; top:0;background-color: #efefef;}
 body.scenario #jim-body { background-color: white; }
-.showComments #jim-body { top: 47px; }
+.showComments #jim-body { top: 0px; }
 #jim-web{ margin: 0 auto; display: none; }
 body.web #jim-web{ display:block; }
 #simulation { position: relative; overflow: auto; height: 100%; z-index: 2; }
